@@ -1,7 +1,7 @@
 # ProjectRoCar
 
 ## Descrizione
-Project _RObot-CARt_ è un progetto (principalmente a scopo didattico, fine allo svolgimento dell'esame universitario di **Sistemi Embedded**) Hardware-Software concepito per girare su **Arduino** e realizzare il prototipo di un **Carrello Automatizzato** per uso comune (si pensi ad un carrellino per il trasporto di valigie o di zaini)
+Project _RObot-CARt_ è un progetto (principalmente a scopo didattico, finalizzato allo svolgimento dell'esame universitario di **Sistemi Embedded**) Hardware-Software concepito per girare su **Arduino** e realizzare il prototipo di un **Carrello Automatizzato** per uso comune (si pensi ad un carrellino per il trasporto di valigie o di zaini)
 
 ## Progettazione
 L'idea è ancora in fase di progettazione, prossimamente saranno disponibili:
@@ -14,6 +14,6 @@ L'idea è ancora in fase di progettazione, prossimamente saranno disponibili:
 - descrizione dei vincoli posti dal supervisore dell'esame
  
 ## Autori
-Gli autori del progetto sono da vedersi in:
+Gli autori del progetto sono:
 - PsykeDady (Davide Galati)
 - Ivonne Rizzuto
